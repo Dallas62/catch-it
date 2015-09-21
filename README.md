@@ -1,2 +1,3 @@
-# catch-it
-A bug catcher for browser
+# Catch-It
+
+A bug catcher for browser.
